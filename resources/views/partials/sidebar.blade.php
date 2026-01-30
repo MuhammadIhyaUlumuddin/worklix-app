@@ -191,7 +191,7 @@
                 </li>
                 <li class="menu-item">
                     <a href="" class="menu-link">
-                        <div class="text-truncate">Ijin / Cuti</div>
+                        <div class="text-truncate">Izin / Cuti</div>
                     </a>
                 </li>
                 <li class="menu-item">

@@ -10,7 +10,7 @@
     <meta name="robots" content="noindex, nofollow">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>@yield('title') - Worklix</title>
+    <title>@yield('title') | Worklix</title>
 
     {{-- Favicon --}}
     <link rel="shortcut icon" href="{{ asset('assets/img/favicon/favicon.ico') }}" type="image/x-icon">

@@ -20,26 +20,12 @@
                         <th>Tanggal</th>
                     </tr>
                 </thead>
-                <tbody class="table-border-bottom-0">
-                    <tr>
-                        <td>
-                            <div class="d-flex align-items-center justify-content-center gap-3">
-                                <div class="avatar avatar-sm">
-                                    <img src="{{ asset('assets/img/avatars/1.png') }}" alt="avatar" class="rounded-circle">
-                                </div>
-                                <span>Ehsan</span>
-                            </div>
-                        </td>
-                        <td>Administrasi</td>
-                        <td>Supervisor</td>
-                        <td>Absen Masuk</td>
-                        <td>15 January 2026 17:28:33</td>
-                    </tr>
-                </tbody>
+                <tbody class="table-border-bottom-0"></tbody>
             </table>
         </div>
     </div>
 @endsection
+
 
 @push('scripts')
     <script src="{{ asset('assets/vendor/libs/apex-charts/apexcharts.js') }}"></script>
